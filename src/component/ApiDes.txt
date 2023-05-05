@@ -1,0 +1,9 @@
+======weather api link=========
+https://api.openweathermap.org/data/2.5/weather?q=indore&appid=47b3a55044864798d120d7854c47f4ae
+
+
+==============================================================================================================================================================
+
+
+===== weather icon Link =====
+https://erikflowers.github.io/weather-icons/
